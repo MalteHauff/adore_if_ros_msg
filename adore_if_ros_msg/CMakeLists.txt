@@ -123,6 +123,8 @@ find_package(catkin REQUIRED COMPONENTS
    PlanningResultSet.msg
    PlotStart.msg
    PointArray.msg
+   PointArray2D.msg
+   PointWithRotation2D.msg
    Precedence.msg
    Proposition.msg
    SetPoint.msg
